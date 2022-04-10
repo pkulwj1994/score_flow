@@ -163,7 +163,6 @@ pytest-cache==1.0
 pytest-cov==2.9.0
 pytest-pep8==1.0.6
 python-dateutil==2.8.1
-python-debian===0.1.36ubuntu1
 pytorch-lightning==1.3.8
 pytz==2021.1
 PyWavelets==1.1.1
@@ -188,10 +187,8 @@ SimpleITK==2.0.2
 simplejson==3.16.0
 six==1.15.0
 smmap==4.0.0
-sos==4.1
 ssh-import-id==5.10
 subprocess32==3.5.4
-systemd-python==234
 tenacity==7.0.0
 tensorboard==2.4.1
 tensorboard-data-server==0.6.0
@@ -210,12 +207,10 @@ termcolor==1.1.0
 terminado==0.9.5
 testpath==0.4.4
 tf-estimator-nightly==2.5.0.dev2021032601
-tf-nightly==2.6.0
 threadpoolctl==2.1.0
 tifffile==2021.6.14
 toolz==0.11.1
-torch==1.8.1
-torch-xla==1.8.1
+torch
 torchmetrics==0.4.0
 torchvision==0.9.1
 tornado==6.1
