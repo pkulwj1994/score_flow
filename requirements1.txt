@@ -219,9 +219,6 @@ traitlets==5.0.5
 Twisted==18.9.0
 typeguard==2.12.0
 typing-extensions==3.7.4.3
-ubuntu-advantage-tools==20.3
-ufw==0.36
-unattended-upgrades==0.1
 uritemplate==3.0.1
 urllib3==1.26.4
 virtualenv==20.4.4
